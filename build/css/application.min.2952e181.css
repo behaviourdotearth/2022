@@ -2919,7 +2919,7 @@ body .panel__inner:after, body.body--dark .panel__inner:after {
 }
 @media (min-width: 1030px) {
   .feature__item--last .feature__image, .feature__item--last .feature__title {
-    margin-left: calc(16.6666666667% + 20px)
+    margin-left: calc(0% + 20px)
   }
 }
 .feature__item--last .feature__title {
